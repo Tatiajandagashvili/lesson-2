@@ -1,0 +1,15 @@
+.nav-a{
+	color: blue;
+	font-size: 22px;
+}
+.active{
+	color: red;
+}
+.banner{
+	margin-left: 350px;
+	margin-bottom: 260px;
+}
+.banner{
+	width: 890px;
+	height: 350px;
+}
